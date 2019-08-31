@@ -21,7 +21,7 @@ export default {
   name: 'DescriptionView',
   data () {
     return {
-      formula_first: '$${i {\\frac{\\partial\\psi}{\\partial t}} = -{\\frac{\\partial^2}{\\partial^2 t}}\\psi + ax^2\\psi }.$$'
+      formula_first: '$${i {\\frac{\\partial\\psi}{\\partial t}} = -{\\frac{\\partial^2}{\\partial^2 x}}\\psi + ax^2\\psi }.$$'
     }
   }
 }

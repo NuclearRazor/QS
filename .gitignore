@@ -1,0 +1,4 @@
+SM1D/.idea/
+node_modules/
+package-lock.json
+/SM1D/build/build.js
