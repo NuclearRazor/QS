@@ -1,6 +1,6 @@
 <template>
   <div class="description">
-    Solve Schrodinger equation for electron (1D projection) in a harmoic potential, overall equation is:
+    Solve Schrodinger equation for electron (1D projection) in a harmonic potential:
     <vue-mathjax :formula="formula_first"></vue-mathjax>
     <p>
       There some disadvantages in this simulation:<br/>
